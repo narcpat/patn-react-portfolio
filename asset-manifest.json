@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/patn-react-portfolio/static/css/main.7e59a9ac.css",
+    "main.js": "/patn-react-portfolio/static/js/main.53d09daa.js",
+    "static/js/787.81b78e25.chunk.js": "/patn-react-portfolio/static/js/787.81b78e25.chunk.js",
+    "static/media/Quote-Smith-screenshot.png": "/patn-react-portfolio/static/media/Quote-Smith-screenshot.ddf0d32d17b3255d23e4.png",
+    "static/media/hero-bg.jpg": "/patn-react-portfolio/static/media/hero-bg.a1eec22930edbc6edf78.jpg",
+    "static/media/robot-game-image.jpg": "/patn-react-portfolio/static/media/robot-game-image.8a6cab55399e20c1573e.jpg",
+    "static/media/Concertium_Screenshot.jpg": "/patn-react-portfolio/static/media/Concertium_Screenshot.0d80acec20c00f9e8e8b.jpg",
+    "static/media/patN-avatar.jpeg": "/patn-react-portfolio/static/media/patN-avatar.e182ed5760a87364101d.jpeg",
+    "index.html": "/patn-react-portfolio/index.html",
+    "main.7e59a9ac.css.map": "/patn-react-portfolio/static/css/main.7e59a9ac.css.map",
+    "main.53d09daa.js.map": "/patn-react-portfolio/static/js/main.53d09daa.js.map",
+    "787.81b78e25.chunk.js.map": "/patn-react-portfolio/static/js/787.81b78e25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e59a9ac.css",
+    "static/js/main.53d09daa.js"
+  ]
+}
