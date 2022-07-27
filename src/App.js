@@ -2,8 +2,6 @@ import { useState } from "react";
 import "./App.css";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-// import Project from "./components/Project";
-// import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 import Portfolio from "./components/Portfolio";
 import About from "./components/About";

@@ -11,7 +11,7 @@ export default function Nav({ pages, setCurrentPage }) {
           <a href="#work">Work</a>
         </li>
         <li>
-          <a href="#contact-me">Contact Me</a>
+          <a href="#contact">Contact Me</a>
         </li>
         <li>
           <a href="#">Resume</a>

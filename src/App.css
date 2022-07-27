@@ -60,6 +60,14 @@ label {
   margin-bottom: 10px;
 }
 
+contact-form, h1 {
+  font-weight: bold;
+  font-size: 46px;
+  color: var(--white);
+  margin: 0;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
 section {
   padding: 60px;
 }
@@ -165,6 +173,8 @@ header nav ul li a:hover {
   width: 70%;
 }
 
+
+
 .bio-text p {
   line-height: 1.7;
   color: var(--white);
@@ -249,6 +259,22 @@ header nav ul li a:hover {
 /* END of WORK style */
 
 /* CONTACT ME style */
+button {
+  padding: 10px;
+  border-radius: 5px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: var(--color-1);
+  margin-top: 10px;
+  color: var(--white);
+}
+button:hover {
+  background-color: var(--color-2);
+  color: var(--black);
+}
+
 #contact-me {
   padding: 20px 35px;
   display: flex;
